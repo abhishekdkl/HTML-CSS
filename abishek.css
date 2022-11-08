@@ -1,0 +1,144 @@
+
+h1{ position: absolute;
+    right: 1.5;
+    top: 1%;
+    width: 81px;
+    height: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 11px;
+    letter-spacing: 0.1px;
+    color: #fc724d;
+    flex: none;
+    order: 0;
+    flex-grow: 0;}
+
+
+ h2{ width: 561px;
+    height: 160Px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 80px;
+    letter-spacing: 0.2px;
+    color: #252b42;
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
+    h3{width: 490px;
+        height: 60Px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.2px;
+        color: #737373;
+        flex: none;
+        order: 2;
+        flex-grow: 0;}
+        h4{display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 15px 40px;
+            gap: 10px;
+            width: 187px;
+            height: 52px;
+            background: #FC724D;
+            border-radius: 5px;
+            color: #FFFFFF;
+         flex: none;
+            order: 0;
+            flex-grow: 0;}
+            h5{position: absolute;
+                left: 0%;
+                right: 12%;
+                top: -2.67%;
+                bottom: 15%;
+                
+                /* link */
+                
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 24px;
+                /* identical to box height, or 171% */
+                
+                text-align: center;
+                letter-spacing: 0.2px;
+                
+                /* second-text-color */
+                
+                color: #737373;
+                }
+                h6{
+                    position: absolute;
+                    left: -8.47%;
+                    right: -6.68%;
+                    top: -4.21%;
+                    bottom: 0%;
+                    
+                    /* link */
+                    
+                    font-family: 'Montserrat';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 14px;
+                    line-height: 24px;
+                    /* identical to box height, or 171% */
+                    
+                    text-align: center;
+                    letter-spacing: 0.2px;
+                    
+                    /* second-text-color */
+                    
+                    color: #737373;}
+                    h7{
+                        position: absolute;
+                        left: 10%;
+                        right: 0%;
+                        top: 0%;
+                        bottom: 0%;
+                        
+                        /* link */
+                        
+                        font-family: 'Montserrat';
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 14px;
+                        line-height: 24px;
+                        /* identical to box height, or 171% */
+                        
+                        text-align: center;
+                        letter-spacing: 0.2px;
+                        
+                        /* second-text-color */
+                        
+                        color: #737373;}
+                        h8{
+                            position: absolute;
+                            left: 20%;
+                            right: 0%;
+                            top: 0%;
+                            bottom: 0%;
+                            
+                            /* link */
+                            
+                            font-family: 'Montserrat';
+                            font-style: normal;
+                            font-weight: 700;
+                            font-size: 14px;
+                            line-height: 24px;
+                            /* identical to box height, or 171% */
+                            
+                            text-align: center;
+                            letter-spacing: 0.2px;
+                            
+                            /* second-text-color */
+                            
+                            color: #737373;
+                            }
